@@ -1,0 +1,9 @@
+.vs
+.vs/*
+out
+out/*
+build
+build/*
+x64
+x64/*
+CMakePresets.json
